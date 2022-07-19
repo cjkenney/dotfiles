@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Dracula",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-c>": false,
+        "<C-f>": false,
+        "<C-k>": false,
+        "<C-v>": false,
+        "<C-b>": false,
+    },
+    "diffEditor.ignoreTrimWhitespace": false
+}

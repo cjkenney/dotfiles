@@ -11,5 +11,6 @@
         "<C-v>": false,
         "<C-b>": false,
     },
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.find.seedSearchStringFromSelection": "selection"
 }
